@@ -8,7 +8,7 @@
 
 - **Longitude Zones:** There are 60 longitudinal projection zones numbered **1** to **60** starting at 180°W. Each of these zones is **6 degrees** wide. Region 1 covers the region from 180°W to 174°W, and then the region number increases eastward until Region 60, covering the region from 174°E to 180°E.
 - **Latitude Zones:** There are 20 latitudinal zones spanning the latitudes 80°S to 84°N and denoted by the letters **C** to **X**, ommitting the letters I and O. Each of these is **8 degrees** south-north, apart from zone X which is 12 degrees south-north. N is the first north latitude zone, the letters after N belong to the north latitude zones, and the letters before N belong to the south latitude zones. It is worth noting that the polar regions further south at 80°S and further north at 84°N are not included in this system.
-- Specific UTM grid zones can refer to the [link](www.dmap.co.uk/utmworld.htm).
+- Specific UTM grid zones can refer to the [link](https://www.dmap.co.uk/utmworld.htm).
 - As approaching the boundary of the UTM region, the scale distortion will gradually increase. However, in practice, we often need to measure a series of positions in two adjacent areas, so it is particularly convenient and necessary to use a single grid for measurement. If necessary, we can appropriately extend the measurement results to a certain range of adjacent areas.
 
 ## 3. WGS84 and UTM
